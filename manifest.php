@@ -1,14 +1,14 @@
 <?php
 $manifest = array (
 	'acceptable_sugar_versions' => array(
-		'exact_matches' => array('6.5.16'),
+		'exact_matches' => array(),
 		'regex_matches' => array(
 			0 => '6\.0\.\d(beta\d|RC\d|[a-z])?',
 			1 => '6\.1\.\d(beta\d|RC\d|[a-z])?',
 			2 => '6\.2\.\d(beta\d|RC\d|[a-z])?',
 			3 => '6\.3\.\d(beta\d|RC\d|[a-z])?',
 			4 => '6\.4\.\d(beta\d|RC\d|[a-z])?',
-			5 => '6\.5\.\d(beta\d|RC\d|[a-z])?',
+			5 => '6\.5\.16\d(beta\d|RC\d|[a-z])?',
 
 		),
 	),
